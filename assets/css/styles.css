@@ -108,18 +108,8 @@ p{
   font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 18px;
 }
-#pline {
-  line-height: 1.7;
-  text-align: justify;
-  text-justify: inter-word;
-  margin-bottom: 30px; 
-}
-#pline2 {
-  line-height: 1.4;
-  text-align: justify;
-  text-justify: inter-word;
-  margin-bottom: 30px; 
-}
+
+
 #pfoot {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color: rgb(175, 175, 175) !important;
@@ -143,29 +133,7 @@ p{
 th {
   text-align: left;
 }
-/* Footer */
-footer{
-  background-color: white; 
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: rgba(175, 175, 175, 0.639);
-  /* min-height: 68px;  */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
-  font-size: 16px;
-  font-weight: 400; 
-  text-align: center; 
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding-top: 16px; 
-  margin-bottom: 0px;
-  margin-top: 10px;
-}
-#footcolor {
-  color: rgb(175, 175, 175) !important;
-  font-weight: 400;
-}
+
 /* Media Queries */
 @media(max-width: 992px){
 .navbar-expand-lg{
@@ -205,17 +173,3 @@ button:focus {
   margin-left: 10px;
 }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
