@@ -104,9 +104,5 @@ As a result, the website must work at a live, publicly accessible URL. Save this
 
 PLEASE SEE pandas jupyter notebook - code to create a html file/table from the csv file.
 
-
-My devlopment url was: 
-file:///C:/Users/Owner/Documents/Bootcamp/GitHub%20Assignements/Web-Design-Challenge/Starter%20Code/index.html
-
 In GitHub url is:
 https://github.com/MSPM57/Web-Design-Challenge.git
